@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+demucs
+torch
+torchaudio
+ffmpeg-python
