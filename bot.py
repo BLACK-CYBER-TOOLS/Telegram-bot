@@ -7,7 +7,7 @@ from telegram.ext import (
     CallbackQueryHandler, ContextTypes, filters
 )
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
+BOT_TOKEN = os.getenv("8309133573:AAHzSxrR-EV_97gYrBW_LtoKPRrqeOwYF2c")
 
 # vaqtinchalik storage
 user_files = {}
